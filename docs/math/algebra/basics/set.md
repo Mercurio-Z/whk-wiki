@@ -109,7 +109,7 @@ $$
 A\subseteq B\;\text{且}\;B\subseteq A\iff A=B.
 $$
 
-如果集合 $A\subseteq B$，但存在元素 $a\in A$，且 $a\notin B$，就称集合 $A$ 是集合 $B$ 的 **真子集**，记作 $A\subsetneqq B$ 或 $B\supsetneqq A$．
+如果集合 $A\subseteq B$，但存在元素 $a\in B$，且 $a\notin A$，就称集合 $A$ 是集合 $B$ 的 **真子集**，记作 $A\subsetneqq B$ 或 $B\supsetneqq A$．
 
 一般地，我们把不含任何元素的集合叫做 **空集**，记为 $\varnothing$，并规定：**空集是任何集合的子集**．
 
